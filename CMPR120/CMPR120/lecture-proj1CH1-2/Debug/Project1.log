@@ -1,0 +1,3 @@
+﻿  Project-1-BenHalpern.cpp
+Project-1-BenHalpern.obj : error LNK2005: _main already defined in Source.obj
+C:\Users\benha\Desktop\Sac2020\CMPR120\CMPR120\Debug\Project1.exe : fatal error LNK1169: one or more multiply defined symbols found
