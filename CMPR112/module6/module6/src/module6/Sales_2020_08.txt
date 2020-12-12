@@ -1,0 +1,13 @@
+Alan	Turing	23456.77
+Donald	Knuth	8888.33
+John	von_Neumann	32323.66
+Sergey	Brin	7474.66
+Grace	Hooper	83828.44
+Larry	Page	770.4
+Ken	Iverson	23999.9
+Ada	Lovelace	3423.55
+Edsger	Dijkstra	8484.84
+Ken	Thompson	8642.44
+James	 Gosling	10000.44
+Brian	Kernighan	16000
+Gordon	Moore	100000

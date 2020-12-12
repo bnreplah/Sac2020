@@ -1,0 +1,24 @@
+
+Sales Monthly data file : Sales_2020_08.txt
+
+                        Monthly Sales Report  /  August
+
+  Line          Last   First               Gross      Commission       Commission
+  Number        Name   Name                Sales         Rate            Amount
+
+
+    1            Alan Turing              23456.77       11.2          2627.16
+    2          Donald Knuth                8888.33        5.5           488.86
+    3            John von_Neumann         32323.66       11.2          3620.25
+    4          Sergey Brin                 7474.66        5.5           411.11
+    5           Grace Hooper              83828.44       11.2          9388.79
+    6           Larry Page                  770.40        5.5            42.37
+    7             Ken Iverson             23999.90       11.2          2687.99
+    8             Ada Lovelace             3423.55        5.5           188.30
+    9          Edsger Dijkstra             8484.84        5.5           466.67
+   10             Ken Thompson             8642.44        5.5           475.33
+   11           James Gosling             10000.44        6.7           670.03
+   12           Brian Kernighan           16000.00        6.7          1072.00
+   13          Gordon Moore              100000.00       11.2         11200.00
+
+       T O T A L S :                     327293.43                    33338.84

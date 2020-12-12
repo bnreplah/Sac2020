@@ -1,0 +1,4 @@
+                                                  John Smith 
+         Balance = 1345.58 
+        11         12         13         14         14
+Format of dollars is   200,000.50 $
