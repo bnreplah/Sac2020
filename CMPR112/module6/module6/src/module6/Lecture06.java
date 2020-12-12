@@ -91,8 +91,9 @@ public class Lecture06 {
         
         //reading from a file
         String fileNameMonthlyData = "TestReadME.txt";  //file path string to be passed to File class   //object
-        data = fileNameMonthlyData;
+       // data = fileNameMonthlyData;
         File fileInSales = new File (fileNameMonthlyData);//creates new object File path passed to the scanner object to read
+        
         Scanner fileInData = new Scanner( fileInSales );//linked to scanner to read from the fileInSales File
         
         //below we will loop and process each record.
