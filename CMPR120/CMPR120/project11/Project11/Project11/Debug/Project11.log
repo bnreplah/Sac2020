@@ -1,0 +1,3 @@
+﻿  Halpern_Project11_AccountValidate.cpp
+C:\Users\benha\Desktop\Sac2020\CMPR120\CMPR120\project11\Project11\Project11\Halpern_Project11_AccountValidate.cpp(717,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project11.vcxproj -> C:\Users\benha\Desktop\Sac2020\CMPR120\CMPR120\project11\Project11\Debug\Project11.exe

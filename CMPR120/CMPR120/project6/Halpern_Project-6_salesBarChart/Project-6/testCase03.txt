@@ -1,0 +1,38 @@
+
+SALES BAR CHART
+(Each * = $100)
+Store 1: **********
+Store 2: ************
+Store 3: ******************
+Store 4: ********
+Store 5: *******************
+
+
+                                        This chart was produced from data from: testCases/SalesRecordsWHeaderWLabels.txt:
+	Sales Records
+store 1: 1000
+store 2: 1200
+store 3: 1800
+store 4: 800
+store 5: 1900
+
+
+NOTES: This run the program extracted data from a file with both labels and a single line header. It outputted both the contents of the original file and the Sales Bar Chart to the file. Since the file already existed, it overwrote the file.
+SALES BAR CHART
+(Each * = $100)
+Store 1: **********
+Store 2: ************
+Store 3: ******************
+Store 4: ********
+Store 5: *******************
+
+
+                                        This chart was produced from data from: testCases/SalesRecordsWLabels.txt:
+store 1: 1000
+store 2: 1200
+store 3: 1800
+store 4: 800
+store 5: 1900
+
+
+NOTES: This run was the same data as before only wihthout the header, and appended to the file.

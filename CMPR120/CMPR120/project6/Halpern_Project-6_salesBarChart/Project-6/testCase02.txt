@@ -1,0 +1,38 @@
+
+SALES BAR CHART
+(Each * = $100)
+Store 1: **********
+Store 2: ************
+Store 3: ******************
+Store 4: ********
+Store 5: *******************
+
+
+                                        This chart was produced from data from: testCases/SalesRecords.txt:
+1000
+1200
+1800
+800
+1900
+
+
+NOTES: This run of the program extracted data from a simply numerical file without any labels, and then converted them into the table displayed above.
+SALES BAR CHART
+(Each * = $100)
+Store 1: **********
+Store 2: ************
+Store 3: ******************
+Store 4: ********
+Store 5: *******************
+
+
+                                        This chart was produced from data from: testCases/SalesRecordsWHeader.txt:
+	Header
+1000
+1200
+1800
+800
+1900
+
+
+NOTES: This run of the program took numerical data from a file with numerical data and a header and then converted it into a chart as seen by the one above. The run of the program also appended to the file all this data, because it discovered the file already existed.

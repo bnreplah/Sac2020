@@ -1,0 +1,3 @@
+﻿  Halpern_Project10_Gradebook.cpp
+C:\Users\benha\Desktop\Sac2020\CMPR120\CMPR120\project10\project10\project10\project10\Halpern_Project10_Gradebook.cpp(221,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  project10.vcxproj -> C:\Users\benha\Desktop\Sac2020\CMPR120\CMPR120\project10\project10\project10\Debug\project10.exe

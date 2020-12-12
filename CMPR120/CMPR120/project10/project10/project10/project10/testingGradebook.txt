@@ -1,0 +1,10 @@
+
+                                                     G R A D E B O O K
+
+Student                                      Average Test Score                           Letter Grade                                 
+
+john                                         83                                           B                                            
+doe                                          51                                           F                                            
+marry                                        66                                           D                                            
+had                                          60                                           D                                            
+lamb                                         53                                           F                                            
